@@ -1,7 +1,6 @@
 # Two-Color-Tile-Game
+
 In this paper, I will discuss two-color tile game. The strategies to win the game will be stated and justified. In addition, the process of winning the game with conclusions will be shown.
-
-
 There are two colors of tiles—p purple tiles and y yellow tiles (p and y are non-negative integers) in this game. Two players turn turns to make one move on each turn. On a turn, players are legal to take any number of tiles with the same color or take the same number of purple and yellow tiles. And the last player to take tiles or a tile wins.
 For example, if there are 5 purple and 7 yellow tiles, players can take any number that is smaller or equal to 5 of the purple one or any number is smaller or equal to 7 of the yellow tile group. And they could also take same number of both different color tiles, such as 2 yellow tiles and 2 purple tiles. However, they cannot take different numbers of two different color tiles, like 1 purple tile and 2 yellow tiles or take numbers that are greater than the total number of each tile group, including 8 yellow tiles (since there are only 7 yellow tiles).
 Through classifying different situations of the two-color tile game where p+y smaller or equal to 50, losing positions
